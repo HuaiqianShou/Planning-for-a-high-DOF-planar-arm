@@ -33,13 +33,16 @@ To execute the planner on map1 (Has to be run from MATLAB command window)
 >> runtest('map1.txt',startQ, goalQ, planner_id);
 ```
 ## Demo
-
 ### RRT
+![testnew81](https://user-images.githubusercontent.com/90527682/166164943-945b94d6-3b28-4845-a154-b6de2e6cefbd.gif)
 
 ### RRT-Connect
+![testnew52](https://user-images.githubusercontent.com/90527682/166164965-38265ee2-e97b-4406-9dc6-26f954717893.gif)
 
 ### RRT*
+![testnew61](https://user-images.githubusercontent.com/90527682/166164976-e0d93274-2b64-4b79-b9c8-cea52e8e3662.gif)
 
 ### PRM
+![testnew71](https://user-images.githubusercontent.com/90527682/166164981-edcaa3d4-a8a7-491f-9c56-e3a1e0685dc2.gif)
 
 
